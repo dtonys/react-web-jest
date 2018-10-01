@@ -1,3 +1,3 @@
-# react-web-boilerplate
+# react-web-jest
 
-Simple single page app boilerplate featuring react and code splitting. Optimized for incremental rebuild times, to provide a fast development environment.
+Simple example of unit and integration tests with jest and react.
